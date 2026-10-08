@@ -1,5 +1,4 @@
 import unittest
-
 from result_logic import predict_result
 
 
